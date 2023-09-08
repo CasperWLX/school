@@ -4,13 +4,11 @@ public class Main
 {
     public static void main(String[] args)
     {
-
         addition();
         firstValue();
         stringAddition();
         caseSensitivity();
         forEachLoop();
-
     }
 
     public static void addition()
