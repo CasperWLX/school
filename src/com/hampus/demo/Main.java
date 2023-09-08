@@ -9,7 +9,6 @@ public class Main
         stringAddition();
         caseSensitivity();
         forEachLoop();
-
     }
 
     public static void addition()
